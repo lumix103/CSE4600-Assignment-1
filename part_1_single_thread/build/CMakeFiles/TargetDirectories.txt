@@ -1,0 +1,3 @@
+/mnt/c/Users/fabia/CSE4600/Assignment_1/part_1_single_thread/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/fabia/CSE4600/Assignment_1/part_1_single_thread/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/fabia/CSE4600/Assignment_1/part_1_single_thread/build/CMakeFiles/part1.dir

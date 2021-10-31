@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/fabia/CSE4600/Assignment_1/part_1_multi_thread/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -pthread -o CMakeFiles/main.dir/src/main.cpp.o -c /mnt/c/Users/fabia/CSE4600/Assignment_1/part_1_multi_thread/src/main.cpp",
+  "file": "/mnt/c/Users/fabia/CSE4600/Assignment_1/part_1_multi_thread/src/main.cpp"
+}
+]
